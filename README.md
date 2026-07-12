@@ -1,89 +1,32 @@
-<h1 align="center">Hi 👋, I'm Isra Zainab</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Aspirant | CSE (IoT, Cybersecurity & Blockchain) Student
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Isra%20Zainab&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-🎓 Yenepoya Institute of Technology <br>
-📍 Karnataka, India <br>
-💡 Passionate about Full-Stack Development, IoT, Cybersecurity & Problem Solving
-</p>
+# Hi 👋 I'm Isra Zainab
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;IoT+%7C+Cyber+Security+%7C+Blockchain;Learning+Data+Structures+%26+Algorithms;Building+Projects+One+Step+at+a+Time;Future+Software+Engineer"/>
 
-## 🚀 About Me
+<br>
 
-- 🎓 B.E. in Computer Science Engineering (IoT, Cybersecurity & Blockchain)
-- 💻 Aspiring Software Engineer
-- 🌱 Currently learning **Java, DSA, JavaScript & Web Development**
-- 🔭 Working on **Smart Waste Management System**
-- 🧠 Solving problems on **LeetCode**
-- 🎯 Goal: Crack a Software Engineering role in a top product company
+![](https://img.shields.io/badge/Computer%20Science%20Engineering-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2027-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Karnataka-India-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Learning-6366F1?style=for-the-badge)
 
----
+<a href="https://github.com/isra-is">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/isra-zainab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<a href="mailto:israzainab16@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-### Tools & Technologies
+<a href="https://leetcode.com/u/Isra_zainab/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-- Git
-- GitHub
-- VS Code
-- Bootstrap
-- Leaflet.js
-- Arduino IDE
-- ESP8266
-- ESP32
-
----
-
-## 📂 Featured Projects
-
-### ♻ Smart Waste Management System
-
-A smart city project using IoT and Web Technologies.
-
-### Features
-
-- Smart Bin Monitoring
-- Live Truck Tracking
-- Interactive Dashboard
-- Citizen Complaint System
-- Alerts & Notifications
-- Route Optimization
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=isra-is&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=isra-is&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isra-is&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/isra-zainab
-- 📧 Email: israzainab16@gmail.com
-
----
-
-## 💬 Quote
-
-> "Every expert was once a beginner who refused to give up."
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+</div>
