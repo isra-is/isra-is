@@ -1,298 +1,320 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5B21B6,50:7C3AED,100:4F46E5&text=Isra%20Zainab&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Cybersecurity+%7C+IoT+%7C+Blockchain;Building+Security+%26+Software+Projects;Learning+How+Systems+Actually+Work;Building+One+Project+At+A+Time"/><br><a href="https://www.yit.edu.in/">
-<img src="https://img.shields.io/badge/Yenepoya%20Institute%20of%20Technology-7th%20Semester-6D28D9?style=for-the-badge"/>
-</a><img src="https://img.shields.io/badge/CSE-IoT%20%7C%20Cyber%20Security%20%7C%20Blockchain-5B21B6?style=for-the-badge"/><img src="https://img.shields.io/badge/Graduation-2027-4F46E5?style=for-the-badge"/><br><br>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7C3AED,25:2563EB,50:06B6D4,75:EC4899,100:F97316&text=ISRA%20ZAINAB&fontAlignY=38&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=CYBERSECURITY%20×%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+Learning+how+systems+actually+work...;%3E+Building+security-focused+software...;%3E+Detecting.+Analyzing.+Securing.;%3E+Currently+building+SentinelSOC+%F0%9F%9B%A1%EF%B8%8F"/><br><img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILDING-SentinelSOC-06B6D4?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/GRADUATION-2027-EC4899?style=for-the-badge&logo=googlescholar&logoColor=white"/><br><br>
 
 <a href="https://github.com/isra-is">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-isra--is-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/isra-zainab">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Isra%20Zainab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:israzainab16@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></div>---
 
-👋 About Me
+🩷 01 // WHO AM I?
 
-Hi, I'm Isra Zainab, a Computer Science Engineering student at Yenepoya Institute of Technology, specializing in Internet of Things (IoT), Cyber Security, and Blockchain Technology.
+class IsraZainab:
+    role = "Computer Science Engineering Student"
 
-I'm interested in understanding how computer systems, networks, applications, and security mechanisms actually work. I learn best by combining fundamentals with hands-on projects.
+    specialization = [
+        "Cyber Security",
+        "Internet of Things",
+        "Blockchain Technology"
+    ]
 
-My current focus is on strengthening my knowledge of Cybersecurity, Networking, Linux & Windows, Python, Backend Development, Data Structures & Algorithms, and Secure Software Development.
+    interests = [
+        "Cybersecurity",
+        "Software Engineering",
+        "Networking",
+        "Backend Development"
+    ]
 
-I'm currently developing SentinelSOC, a security monitoring platform designed to collect security events, detect suspicious behaviour, correlate events into incidents, calculate risk, and support security analysis.
+    currently_building = "SentinelSOC 🛡️"
+    graduation = 2027
+
+    mission = "Understand → Build → Secure → Improve"
+
+I'm a Computer Science Engineering student at Yenepoya Institute of Technology with a growing focus on Cybersecurity and Software Engineering.
+
+I don't want to learn security by memorizing tools alone.
+
+I want to understand how networks, operating systems, applications and infrastructure actually work — because understanding the system comes before securing it.
+
+«⚡ I learn how systems work. I build them. Then I learn how to secure them.»
 
 ---
 
-🎯 Current Goals
+💜 02 // CURRENT BUILD
 
-🛡️ Build strong Cybersecurity fundamentals
-
-🌐 Understand Networking and computer systems deeply
-
-🐧 Improve Linux & Windows knowledge
-
-💻 Strengthen programming and problem-solving skills
-
-🔐 Build practical security projects
-
-🧠 Learn Data Structures & Algorithms
-
-🌱 Continue developing SentinelSOC
-
-💼 Prepare for internships and entry-level opportunities
-
----
-
-🛠️ Tech Stack
-
-<div align="center">Languages & Web
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js"/>Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>Development & Security Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,vite"/></div>---
-
-🚀 Featured Projects
-
-🛡️ SentinelSOC
+<div align="center">🛡️ SentinelSOC
 
 AI-Powered Security Operations & Threat Intelligence Platform
 
-"Status: 🚧 In Development"
+"Status" (https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F59E0B?style=for-the-badge)
+"Security" (https://img.shields.io/badge/DOMAIN-CYBERSECURITY-8B5CF6?style=for-the-badge)
+"SOC" (https://img.shields.io/badge/FOCUS-SECURITY%20OPERATIONS-06B6D4?style=for-the-badge)
 
-SentinelSOC is a cybersecurity platform designed to simulate and explore how a Security Operations Center (SOC) can monitor security events, detect threats, correlate suspicious activity, manage incidents, and assist analysts.
+</div>SentinelSOC is a security monitoring platform I'm developing to understand how modern Security Operations Centers collect events, detect suspicious behaviour, correlate activity, prioritize threats and investigate incidents.
 
-🔍 Current Capabilities
+⚡ Detection Pipeline
 
-- Security event ingestion
-- Brute-force login detection
-- Suspicious administrator login detection
-- Account-compromise correlation
-- Automated risk scoring
-- Incident creation and management
-- Threat-intelligence lookups
-- AI-assisted incident analysis
-- Role-based authentication foundation
-- Security event dashboard
-- Incident investigation timeline
+                     SECURITY EVENT
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │    📥 INGESTION     │
+                ╰──────────┬──────────╯
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │    🔍 DETECTION     │
+                │                     │
+                │ • Brute Force       │
+                │ • Admin Activity    │
+                │ • Login Anomalies   │
+                ╰──────────┬──────────╯
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │   🔗 CORRELATION    │
+                ╰──────────┬──────────╯
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │   ⚡ RISK SCORING   │
+                ╰──────────┬──────────╯
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │    🚨 INCIDENT      │
+                │     CREATION        │
+                ╰──────────┬──────────╯
+                           │
+                           ▼
+                ╭─────────────────────╮
+                │   🤖 AI ANALYST     │
+                ╰─────────────────────╯
 
-⚙️ Technology Stack
+🧠 What SentinelSOC Can Do
 
-Layer| Technologies
-Frontend| React, TypeScript, Vite
-Backend| FastAPI, Python
-Database| PostgreSQL
-ORM| SQLAlchemy
-Authentication| JWT
-Infrastructure| Docker
-Testing| Pytest
-API Testing| Postman / Swagger
+| Capability
+📥| Security event ingestion
+🔐| Brute-force login detection
+👤| Suspicious administrator login detection
+🔗| Account-compromise correlation
+⚡| Automated risk scoring
+🚨| Incident creation and management
+🌐| IP threat-intelligence lookup
+🤖| AI-assisted incident analysis
+👥| Role-based access control foundation
+📊| Security monitoring dashboard
+🕒| Incident investigation timeline
 
-«The project currently uses simulated security data during development. Real endpoint/security-log integration is planned after the core platform is completed and security/privacy requirements are evaluated.»
+⚙️ Under the Hood
 
----
+<div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,docker,git,github,vscode,postman"/><br><br>
 
-🗳️ Online Voting System
+"React" • "TypeScript" • "Vite" • "FastAPI" • "Python" • "PostgreSQL" • "SQLAlchemy" • "JWT" • "Docker" • "Pytest"
 
-"Status: ✅ Completed"
-
-A web-based voting application developed to explore secure digital voting workflows and application development.
-
-Key Areas
-
-- User authentication
-- Voting workflow
-- Candidate management
-- Vote recording
-- Result management
-- Web application development
-
-The project helped strengthen my understanding of building complete applications and designing structured user workflows.
-
----
-
-♻️ IoT-Based Smart Waste Management System
-
-"Status: ✅ Completed"
-
-A smart waste-management project designed around IoT concepts and digital monitoring.
-
-Highlights
-
-- Smart-bin monitoring
-- Waste-level tracking concept
-- Dashboard interface
-- Truck management
-- Alerts
-- Citizen module
-- Responsive interface
-
-The project helped me understand how IoT systems can combine physical sensing concepts with software dashboards to solve real-world problems.
+</div>«🧪 Development approach: SentinelSOC currently works with simulated security events while the platform is being developed and tested.»
 
 ---
 
-🔐 Cybersecurity Learning
+🩵 03 // PROJECT ARCHIVE
 
-I'm currently strengthening the fundamentals required to understand and secure modern systems.
+<table>
+<tr>
+<td width="50%" valign="top">🗳️ Online Voting System
 
-Networking
-├── TCP/IP
-├── IPv4 & IPv6
-├── DNS
-├── DHCP
-├── Ports & Protocols
-├── LAN / WAN / MAN
-├── Routers & Switches
-└── OSI Model
+"Completed" (https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square)
 
-Operating Systems
-├── Linux
-└── Windows
+A web-based voting application built to explore structured digital voting workflows.
 
-Security
-├── Vulnerability Assessment
-├── Network Reconnaissance
-├── Threat Detection
-├── Security Monitoring
-├── Incident Response
-└── Secure Software Development
+What I worked with
 
-Development
-├── Python
-├── Java
-├── Backend Development
-├── Databases
-├── REST APIs
-└── Git & GitHub
+"Authentication" "Voting Workflow"
+"Candidate Management" "Results"
+"Web Development" "Database"
 
----
+What it taught me
 
-🌱 Currently Learning
+Building complete application workflows and connecting different parts of a software system.
 
-cybersecurity:
-  - Networking Fundamentals
-  - Linux & Windows
-  - Vulnerability Assessment
-  - Security Monitoring
-  - Incident Response
+</td><td width="50%" valign="top">♻️ IoT Smart Waste Management
 
-programming:
-  - Python
-  - Java
-  - Data Structures & Algorithms
+"Completed" (https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square)
 
-development:
-  - Backend Development
-  - REST APIs
-  - Databases
-  - React
+An IoT-focused system exploring smarter monitoring and management of waste collection.
 
-currently_building:
-  - SentinelSOC
+Features
 
-career_goal:
-  - Cybersecurity / Software Engineering Internship
+"Smart Bins" "Monitoring Dashboard"
+"Truck Management" "Alerts"
+"Citizen Module" "Responsive UI"
 
----
+What it taught me
 
-📅 Engineering Journey
+How IoT concepts can connect physical-world problems with software-based monitoring.
 
-Year| Milestone
-2026| 🚀 Started building my professional GitHub
-2026| ♻️ Built IoT-Based Smart Waste Management System
-2026| 🗳️ Completed Online Voting System
-2026| 🛡️ Started developing SentinelSOC
-2026| 🔐 Strengthening Cybersecurity & Networking fundamentals
-2026| 💻 Practicing programming and DSA
-2027| 🎓 Expected graduation
+</td>
+</tr>
+</table>---
 
----
+💚 04 // SECURITY LAB
 
-🎯 2026–2027 Roadmap
+isra@cyberlab:~$ whoami
+Cybersecurity-focused CSE student
 
-[✓] Build IoT-Based Smart Waste Management System
+isra@cyberlab:~$ cat current-focus.txt
+> Networking Fundamentals
+> Linux & Windows
+> Security Monitoring
+> Vulnerability Assessment
+> Threat Detection
+> Incident Response
+> Secure Software Development
 
-[✓] Complete Online Voting System
+isra@cyberlab:~$ current_project
+SentinelSOC
 
-[ ] Complete SentinelSOC
+isra@cyberlab:~$ objective
+Understand systems before trying to secure them.
 
-[ ] Strengthen Networking fundamentals
+isra@cyberlab:~$ status
+[+] Learning
+[+] Building
+[+] Breaking things safely
+[+] Fixing them
+[+] Repeat
 
-[ ] Improve Linux & Windows skills
+🌐 Networking Fundamentals
 
-[ ] Strengthen Python
+"TCP/IP" • "UDP" • "IPv4" • "IPv6" • "OSI Model" • "DNS" • "DHCP" • "Ports" • "LAN/WAN" • "Routers" • "Switches" • "VPN"
 
-[ ] Practice Data Structures & Algorithms
+🔐 Security
 
-[ ] Build more hands-on Cybersecurity projects
-
-[ ] Contribute to Open Source
-
-[ ] Secure an Internship
+"Reconnaissance" • "Vulnerability Assessment" • "Threat Detection" • "Security Monitoring" • "Incident Analysis"
 
 ---
 
-💼 Open To
+💛 05 // TECH ARSENAL
 
-- 🛡️ Cybersecurity Internships
-- 💻 Software Engineering Internships
-- 🔐 Security Projects
-- 🌐 Open Source Contributions
-- 🤝 Student Collaborations
-- 📚 Continuous Learning Opportunities
+<div align="center">💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css"/>⚙️ Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite"/>🗄️ Data
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>🧰 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/></div>---
+
+🧠 06 // CURRENT MISSION
+
+mission_control:
+
+  cybersecurity:
+    - networking
+    - linux_and_windows
+    - vulnerability_assessment
+    - security_monitoring
+    - incident_response
+
+  software:
+    - python
+    - java
+    - backend_development
+    - rest_apis
+    - databases
+    - data_structures_and_algorithms
+
+  building:
+    primary: SentinelSOC
+
+  next_checkpoint:
+    - complete SentinelSOC
+    - strengthen cybersecurity fundamentals
+    - build hands-on security labs
+    - improve problem solving
+    - prepare for internships
+
+  long_term:
+    - become a strong cybersecurity engineer
+    - build secure real-world systems
 
 ---
 
-📊 GitHub Analytics
+🔥 07 // 2026 → 2027
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=isra-is&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isra-is&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=isra-is&theme=tokyonight&hide_border=true&border_radius=15"/></div>---
+2026
 
-📈 Contribution Graph
+[██████████]  ♻️ IoT Smart Waste Management     COMPLETE
+[██████████]  🗳️ Online Voting System           COMPLETE
+[████████░░]  🛡️ SentinelSOC                    BUILDING
+[██████░░░░]  🌐 Networking Fundamentals        LEARNING
+[██████░░░░]  🔐 Cybersecurity Fundamentals     LEARNING
+[████░░░░░░]  🧠 DSA & Problem Solving          PRACTICING
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-is&theme=tokyo-night&hide_border=true"/></div>---
+                         │
+                         ▼
 
-💻 Coding Profiles
+2027
 
-<div align="center"><a href="https://leetcode.com/u/Isra_zainab/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a><a href="https://github.com/isra-is">
-<img src="https://img.shields.io/badge/GitHub-isra--is-181717?style=for-the-badge&logo=github"/>
+🎓 Graduate
+💼 Internship / Entry-Level Opportunity
+🛡️ Deeper Cybersecurity Specialization
+🚀 Bigger Projects
+
+---
+
+📊 08 // GITHUB SIGNALS
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=isra-is&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isra-is&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=isra-is&theme=tokyonight&hide_border=true&border_radius=15"/><br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isra-is&theme=tokyo-night&hide_border=true"/></div>---
+
+🧩 09 // ENGINEERING MINDSET
+
+01  Understand the system before securing the system.
+
+02  Learn by building — not only by watching.
+
+03  Tools change. Fundamentals stay.
+
+04  Write code another developer can understand.
+
+05  Security is part of engineering, not an afterthought.
+
+06  Every project should teach me something new.
+
+07  Consistency > perfection.
+
+---
+
+🤝 10 // LET'S CONNECT
+
+<div align="center">Interested in Cybersecurity • Software Engineering • IoT • Technology
+
+<br><a href="mailto:israzainab16@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/isra-zainab">
-<img src="https://img.shields.io/badge/LinkedIn-Isra%20Zainab-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a></div>---
-
-📖 Engineering Principles
-
-✓ Understand how systems work — not just how to use tools.
-
-✓ Learn by building.
-
-✓ Write clean and understandable code.
-
-✓ Build strong fundamentals.
-
-✓ Stay consistent instead of chasing perfection.
-
-✓ Document what I learn.
-
-✓ Keep improving one project at a time.
-
----
-
-🌍 Connect With Me
-
-<div align="center"><a href="mailto:israzainab16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/isra-zainab">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://github.com/isra-is">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://leetcode.com/u/Isra_zainab/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a><br><br>
 
-<div align="center">⭐ Building. Learning. Securing. Improving.
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│      🟣 BUILD  •  🔵 LEARN  •  🟢 SECURE  •  🩷 CREATE     │
+│                                                             │
+│              One project. One commit.                       │
+│                  One step at a time.                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-"Every project is another opportunity to understand how technology works."
+⚡ "Understand → Build → Secure → Improve"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5B21B6,50:7C3AED,100:4F46E5"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F97316,25:EC4899,50:06B6D4,75:2563EB,100:7C3AED"/></div>
