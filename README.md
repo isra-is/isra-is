@@ -415,13 +415,28 @@ and one commit at a time.
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-is&theme=tokyo-night&hide_border=true"/></div>---
 
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<div align="center">«Coming Soon»
+<div align="center">
 
-The contribution snake animation will be enabled after GitHub Actions is configured.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/isra-is/isra-is/output/github-contribution-grid-snake-dark.svg"
+  />
 
-</div>---
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/isra-is/isra-is/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/isra-is/isra-is/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 💻 Coding Profiles
 
